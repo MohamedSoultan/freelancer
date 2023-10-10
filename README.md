@@ -1,4 +1,4 @@
-
+<!--
 <h1 align="center">
 Portfolio 🌱🍃
 </h1>
@@ -21,15 +21,15 @@ Portfolio is a personal website that contains my skills, my learning journey, pr
 ## 🔹Features
 
 🌐Frontend:
-  - breloader befor main bage loading with my logo. 
+  - breloader befor main bage loading with my logo.
   - Responsive navigation bar with menu icon toggling when user click on.
-  - Home page, about me section, my skills ,services section, my previous projects , 
+  - Home page, about me section, my skills ,services section, my previous projects ,
   - the page contain many CSS animations.
-    
+
 
 ## 🔹License
 <p align="center">
 Copyright (C) 2023 K.nagah. ✌️
 </p>
 
-
+ -->
